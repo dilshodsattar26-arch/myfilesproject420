@@ -1,0 +1,8 @@
+{
+    "name": "cloudhandler-service",
+    "version": "1.0.420",
+    "private": false,
+    "environment": "production",
+    "build_id": 761,
+    "allow_public_access": true
+}
